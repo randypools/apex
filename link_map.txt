@@ -1,0 +1,20 @@
+List of shortened web links for both mainnet & testnet
+
+***Mainnet - BACON
+
+Mainnet Metadata
+https://raw.githubusercontent.com/randypools/apex/main/mainnet_bacon_meta-v1.json		https://tinyurl.com/xxxxxxxx
+
+Mainnet Ext Metadata
+https://raw.githubusercontent.com/randypools/apex/main/mainnet_bacon_extmeta-v1.json		https://tinyurl.com/xxxxxxxx
+
+
+***Testnet - BACON
+
+Testnet Metadata
+https://raw.githubusercontent.com/randypools/apex/main/testnet_bacon_meta-v1.json		https://tinyurl.com/xxxxxxxx
+
+Testnet Ext Metadata
+https://raw.githubusercontent.com/randypools/apex/main/testnet_bacon_extmeta-v1.json		https://tinyurl.com/xxxxxxxx
+
+
